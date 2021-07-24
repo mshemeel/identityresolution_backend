@@ -1,4 +1,4 @@
-#TO RUN : spring-boot:run
+#TO RUN : mvn:spring-boot:run
 
 # FullContact Enrichment trial
 
