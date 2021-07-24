@@ -1,4 +1,4 @@
-#TO RUN : mvn:spring-boot:run
+#TO RUN :go to project directory :  mvn spring-boot:run
 
 # FullContact Enrichment trial
 
