@@ -1,0 +1,123 @@
+{
+    "fullName": "Bart Lorang",
+    "ageRange": null,
+    "gender": "Male",
+    "location": "Boulder, Colorado, United States",
+    "title": "Founding Board Member",
+    "organization": "FullContact Inc",
+    "twitter": "https://twitter.com/bartlorang",
+    "linkedin": "https://www.linkedin.com/in/bart-lorang-a220193",
+    "facebook": null,
+    "bio": "Mr. Lorang is a proven entrepreneur, executive and manager in the global technology industry. Mr. Lorang is active in the startup technology community as an angel investor, strategic advisor and speaker at industry events. Bart serves as Co-Founder & CEO of FullContact. Mr. Lorang is responsible for communicating FullContact's vision and strategy. Mr. Lorang is a visionary technologist with extensive experience conceiving, designing, building, marketing and selling enterprise software solutions on a global scale. Bart is also Co-Founder and Managing Director of v1.vc, a $5M seed stage fund dedicated to helping crazy entrepreneurs change the world. Bart serves on the Board of the Colorado Technology Association, Rapt Media and is on the Advisory Board of Education Funding Partners. Bart is a regular guest on FOX Business channel and has been featured by ABC, CNN, FOX News, MSNBC, Forbes, FastCompany, Yahoo, Inc Magazine and TechCrunch. Prior to founding FullContact, Mr. Lorang was an owner in Dimension Technology Solutions where he served as President and oversaw all day to day operations, customer engagements, partner relations, product development, sales and marketing functions. Mr. Lorang is recognized for providing solutions that are simple and work reliably. He strongly believes in using technology to solve problems as opposed to using problems to demonstrate technology. Mr. Lorang holds a Bachelor of Science degree in Computer Science from the University of Colorado and an MBA from the Daniels College of Business at University of Denver. Specialties: Investments, Startups, Financial Analysis, Sales, Technical Sales, Implementations, System Integration, Project Management, Leadership",
+    "avatar": "https://img.fullcontact.com/static/c3f94843234e1c9a9e53d027e8a38337_1a23c151d8112fccf875c1c9598912da6696269f0eed6200e603525d8d16c7a2",
+    "website": "https://fullcontact.com/bart",
+    "details": {
+        "name": {
+            "given": "Bart",
+            "family": "Lorang",
+            "full": "Bart Lorang"
+        },
+        "age": null,
+        "gender": "Male",
+        "demographics": {
+            "gender": "Male"
+        },
+        "emails": [],
+        "phones": [],
+        "profiles": {
+            "twitter": {
+                "url": "https://twitter.com/bartlorang",
+                "service": "twitter"
+            },
+            "linkedin": {
+                "url": "https://www.linkedin.com/in/bart-lorang-a220193",
+                "bio": "Mr. Lorang is a proven entrepreneur, executive and manager in the global technology industry. Mr. Lorang is active in the startup technology community as an angel investor, strategic advisor and speaker at industry events. Bart serves as Co-Founder & CEO of FullContact. Mr. Lorang is responsible for communicating FullContact's vision and strategy. Mr. Lorang is a visionary technologist with extensive experience conceiving, designing, building, marketing and selling enterprise software solutions on a global scale. Bart is also Co-Founder and Managing Director of v1.vc, a $5M seed stage fund dedicated to helping crazy entrepreneurs change the world. Bart serves on the Board of the Colorado Technology Association, Rapt Media and is on the Advisory Board of Education Funding Partners. Bart is a regular guest on FOX Business channel and has been featured by ABC, CNN, FOX News, MSNBC, Forbes, FastCompany, Yahoo, Inc Magazine and TechCrunch. Prior to founding FullContact, Mr. Lorang was an owner in Dimension Technology Solutions where he served as President and oversaw all day to day operations, customer engagements, partner relations, product development, sales and marketing functions. Mr. Lorang is recognized for providing solutions that are simple and work reliably. He strongly believes in using technology to solve problems as opposed to using problems to demonstrate technology. Mr. Lorang holds a Bachelor of Science degree in Computer Science from the University of Colorado and an MBA from the Daniels College of Business at University of Denver. Specialties: Investments, Startups, Financial Analysis, Sales, Technical Sales, Implementations, System Integration, Project Management, Leadership",
+                "service": "linkedin"
+            }
+        },
+        "locations": [
+            {
+                "city": "Boulder",
+                "region": "Colorado",
+                "regionCode": "CO",
+                "country": "United States",
+                "countryCode": "US",
+                "formatted": "Boulder, Colorado, United States"
+            },
+            {
+                "city": "Denver",
+                "region": "Colorado",
+                "regionCode": "CO",
+                "country": "United States",
+                "countryCode": "US",
+                "formatted": "Denver, Colorado, United States"
+            },
+            {
+                "city": "Bozeman",
+                "region": "Montana",
+                "regionCode": "MT",
+                "country": "United States",
+                "countryCode": "US",
+                "formatted": "Bozeman, Montana"
+            },
+            {
+                "country": "United States",
+                "countryCode": "US",
+                "formatted": "United States"
+            },
+            {
+                "formatted": "All over the USA"
+            }
+        ],
+        "employment": [
+            {
+                "name": "FullContact Inc",
+                "current": true,
+                "title": "Founding Board Member"
+            }
+        ],
+        "photos": [
+            {
+                "label": "Other",
+                "value": "https://img.fullcontact.com/static/c3f94843234e1c9a9e53d027e8a38337_1a23c151d8112fccf875c1c9598912da6696269f0eed6200e603525d8d16c7a2"
+            }
+        ],
+        "education": [
+            {
+                "name": "University of Denver - Daniels College of Business",
+                "degree": "Masters, Business Administration (MBA)",
+                "end": {
+                    "year": 2010
+                }
+            },
+            {
+                "name": "University of Colorado at Boulder",
+                "degree": "B.S., Computer Science",
+                "end": {
+                    "year": 2000
+                }
+            },
+            {
+                "name": "University of Colorado, Boulder",
+                "degree": "Computer Science",
+                "end": {
+                    "year": 2000
+                }
+            },
+            {
+                "name": "University of Denver, Daniels College of Business",
+                "degree": "EMBA",
+                "end": {
+                    "year": 2011
+                }
+            }
+        ],
+        "urls": [
+            {
+                "value": "https://fullcontact.com/bart"
+            }
+        ],
+        "interests": []
+    },
+    "updated": "2021-05-30"
+}
