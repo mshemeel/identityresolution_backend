@@ -1,3 +1,5 @@
+#TO RUN : spring-boot:run
+
 # FullContact Enrichment trial
 
 This assignment's purpose is to build a very minimalistic user interface to lookup 
